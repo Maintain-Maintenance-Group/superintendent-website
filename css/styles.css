@@ -162,3 +162,44 @@ footer {
 .about-content ul li {
   margin-bottom: 10px;
 }
+
+/* Services Page Specific Styles */
+.services-header {
+  background-color: #34495e;
+  color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.services-header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.services-header p {
+  font-size: 1.2em;
+}
+
+.service-section {
+  background-color: #fff;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-left: 5px solid #1abc9c;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.service-section h2 {
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  color: #2c3e50;
+}
+
+.service-section ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.service-section ul li {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
