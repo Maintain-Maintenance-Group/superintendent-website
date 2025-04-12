@@ -135,7 +135,30 @@ footer {
 .about-header p {
   font-size: 1.2em;
 }
+nav {
+  background-color: #34495e;
+}
 
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-links li {
+  margin: 10px 15px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #1abc9c;
 .about-content {
   background-color: #fff;
   padding: 40px;
