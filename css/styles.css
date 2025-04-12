@@ -202,7 +202,30 @@ nav {
 .services-header p {
   font-size: 1.2em;
 }
+nav {
+  background-color: #34495e;
+}
 
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-links li {
+  margin: 10px 15px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #1abc9c;
 .service-section {
   background-color: #fff;
   padding: 30px;
@@ -243,7 +266,30 @@ nav {
 .showcase-header p {
   font-size: 1.2em;
 }
+nav {
+  background-color: #34495e;
+}
 
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-links li {
+  margin: 10px 15px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #1abc9c;
 .showcase-section {
   margin: 40px 0;
 }
@@ -305,7 +351,30 @@ nav {
 .contact-header p {
   font-size: 1.2em;
 }
+nav {
+  background-color: #34495e;
+}
 
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-links li {
+  margin: 10px 15px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #1abc9c;
 .contact-info, .contact-form {
   background-color: #f4f4f4;
   padding: 30px;
